@@ -9,7 +9,7 @@ Girdikten hemen sonrasında şifrenizi belirleyebileceksiniz.
 (Kullanıcıların girdiği şifreler, şifrelenmektedir)
 
 
-Admin C# üzerinden kullanıcı ekleyebilir, departman ekleyebilir ve rol ekleyebilir. Ayrıca varolan departmanı, rolü ve kullanıcıları düzenleyebilir veya güncelleyebilir.
+Admin C# üzerinden kullanıcı ekleyebilir, departman ekleyebilir ve rol ekleyebilir. Ayrıca varolan departmanı, rolü ve kullanıcıları düzenleyebilir veya güncelleyebilir.<br>
 ![admin paneli](https://i.imgur.com/fNOcvTd.png)
 
 Kullanıcı ekle denildiğinde rolID ve depID kesinlikle sistemdeki isimi ile çağırılmaktadır.
