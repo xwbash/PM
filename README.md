@@ -1,6 +1,5 @@
 # PM
 Student and Teacher login,sign-up and management system
-<br> Rapor: https://www.docdroid.net/upFaTsd/belge-2-docx <br>
 <br><Projenin yaptıkları> <br>
 
 SQL ve C# tabanlı çalışan proje kullanıcıları ilk mail adresi girilmesi ile başlıyor eğer ki sistemde kayıtlı değilseniz giriş yapamazsınız.
